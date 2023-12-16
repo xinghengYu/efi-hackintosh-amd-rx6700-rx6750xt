@@ -7,3 +7,6 @@ AMD R9 3900X
 B540m Asrock Steel Legend
 Amd RX 6750XT
 64gb Corsair 3200mhz
+
+Full compatible with mac os sonoma
+
