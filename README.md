@@ -10,3 +10,5 @@ Amd RX 6750XT
 
 Full compatible with mac os sonoma
 
+update 18/12/23
+install fenvi board T191 with wifi and bluetooth. airdrop and handoff has been actived. 
